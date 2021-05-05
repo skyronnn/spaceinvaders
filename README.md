@@ -12,10 +12,10 @@ en cours
 Actuellement au 3 Améliorer la qualité du code en éliminant les nombres magiques
 
 ## Diagramme de classes
-Dans le dossier images
+![diagramme_de_classe](https://user-images.githubusercontent.com/81257931/117127122-ff518200-ad9b-11eb-869d-722c53ddc81b.png)
 
 ## Nuage de mots
-Dans le dossier images
+![nuage_de_mots](https://user-images.githubusercontent.com/81257931/117127162-08daea00-ad9c-11eb-98ab-e762241f9bca.png)
 
 ## Difficultés rencontrées
 Un peu de mal avec la connexion à GitHub et donc un démarrage très lent.
