@@ -52,3 +52,31 @@ Vaisseau : véhicule commandé par le joueur, pouvant se déplacer de droite à 
 Envahisseur : ennemi qui apparaît à l'écran, se déplace automatiquement et qui doit être détruit par un missile lancé depuis le vaisseau du joueur.
 
 Missile : projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
+
+
+
+# Semaine n°5 : du 17 au 21 mai
+## Fonctionnalité "faite"
+- Fonctionnalité n°2 : Dimensionner le vaiseau
+  - Etape n°1 : Positionner un nouveau vaisseau avec une dimension donnée
+  - Etape n°2 : Faire en sorte qu'il soit impossible de positionner un nouveau vaisseau qui déborde de l'espace de jeu
+
+## Fonctionnalité en cours d'implémentation
+- Fonctionnalité n°2 : Dimensionner le vaiseau
+  - Etape n°3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension
+
+## Diagramme de classes
+![diagramme_de_classe](https://user-images.githubusercontent.com/81257931/119630364-2cc7a380-be0f-11eb-9c62-c561882a24ad.png)
+
+## Nuage de mots
+![nuage_de_mots](https://user-images.githubusercontent.com/81257931/119630407-36e9a200-be0f-11eb-8008-cfc70bba01d1.png)
+
+## Difficultés rencontrées
+Pas de difficultés particulières une fois encore.
+
+## Glossaire
+- Vaisseau : véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
+
+- Envahisseur : ennemi qui apparaît à l'écran, se déplace automatiquement et qui doit être détruit par un missile lancé depuis le vaisseau du joueur.
+
+- Missile : projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
